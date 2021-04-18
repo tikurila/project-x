@@ -1,0 +1,28 @@
+{
+  "name": "project-x",
+  "version": "1.0.0",
+  "description": "Popova Karina fe-26",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tikurila/project-x.git"
+  },
+  "author": "Popova Karina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tikurila/project-x/issues"
+  },
+  "homepage": "https://github.com/tikurila/project-x#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.14",
+    "eslint": "^7.24.0",
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "moment": "^2.29.1"
+  }
+}
